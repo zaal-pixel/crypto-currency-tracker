@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 I used an API from this Website [Coingecko](https://www.coingecko.com/en/api)
+
+
+
 [live-version](https://zaal-pixel.github.io/crypto-currency-tracker/)
 
 ## Available Scripts
